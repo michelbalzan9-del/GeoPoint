@@ -1,0 +1,16 @@
+[
+  {
+    "id": "65589964-f500-4d4e-be1a-6a396b4787af",
+    "name": "Praça Central",
+    "description": "Praça principal da cidade",
+    "latitude": -28.2825,
+    "longitude": -52.7869
+  },
+  {
+    "id": "97020c8d-e111-4ba1-8945-b9c844831114",
+    "name": "Praça SJO",
+    "description": "Área de lazer, caminhada e eventos",
+    "latitude": -28.3111,
+    "longitude": -52.8111
+  }
+]
